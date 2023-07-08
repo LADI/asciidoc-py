@@ -1,9 +1,11 @@
-AsciiDoc.py
+ladoc-py
 ===========
 
-[![Build Status](https://github.com/asciidoc/asciidoc-py3/workflows/Test/badge.svg?branch=master)](https://github.com/asciidoc/asciidoc-py3/actions?query=workflow%3ATest+branch%3Amaster)
-[![codecov](https://codecov.io/gh/asciidoc-py/asciidoc-py/branch/main/graph/badge.svg?token=fNh3QlLTw0)](https://codecov.io/gh/asciidoc-py/asciidoc-py)
-[![PyPI version](https://badge.fury.io/py/asciidoc.svg)](https://badge.fury.io/py/asciidoc)
+ladoc-py is LADI project modification of AsciiDoc.py
+
+ * support for docinfo-header in xhtml11 and html5 renderings
+   https://github.com/asciidoc-py/asciidoc-py/pull/260
+ * ladi CSS theme
 
 AsciiDoc is a text document format for writing notes, documentation,
 articles, books, ebooks, slideshows, web pages, man pages and blogs.
